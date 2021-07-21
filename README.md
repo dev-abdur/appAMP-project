@@ -1,1 +1,1 @@
-# master.CETappAMP-project
+# MasterCET.appAMP-project
